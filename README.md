@@ -27,16 +27,6 @@ Start the server (until I work out how to do it properly)
 npm run server
 ````
 
-Start the development environment
-````
-npm start
-````
-
-Build the production environment
-````
-npm build
-````
-
 ## Running the tests
 Explain how to run the automated tests for this system
 
